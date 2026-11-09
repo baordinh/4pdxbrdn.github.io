@@ -1,0 +1,368 @@
+{
+ "site": {
+  "crumb": "brdn.appendix / index / files 01–06",
+  "h1": "PORTFOLIO",
+  "h1em": "MY ARTWORK",
+  "note": "Brandon (Bao Dinh), video editor and motion designer from Ho Chi Minh City. Every job here is a different kind of work, so every folder looks like the work inside it. Pull a tab to open it.",
+  "foot": "brdn.appendix · @4pdx.brdn · dinhtthanhpao@gmail.com",
+  "bg": "#000000"
+ },
+ "projects": [
+  {
+   "id": "hoa-kieng",
+   "p": "hk",
+   "no": "01",
+   "x": 0,
+   "c": "#8F111D",
+   "t": "#EDF5F7",
+   "a": "#E3B23C",
+   "scr": "#5A0811",
+   "title": "Họa Kiếng",
+   "kind": "Title sequence",
+   "ctx": "Art & Culture project · UEH SMD",
+   "lede": "Traditional glass painting, in motion.",
+   "txt": [
+    "The intro for our Art and Culture project at UEH SMD. I took the painted frame, the lotus, the dragons and the figures from tranh kiếng and let them move."
+   ],
+   "credits": [
+    [
+     "MOTION DESIGNER",
+     "@4pdx.brdn"
+    ]
+   ],
+   "fine": "I do not own the artworks in this video. This project is for educational purpose only.",
+   "tags": [
+    "#tranhkieng",
+    "#vietnameseart",
+    "#motiongraphics"
+   ],
+   "ig": "https://www.instagram.com/p/DfaUS30E6MS/",
+   "clips": [
+    [
+     "hk-1",
+     "The title"
+    ],
+    [
+     "hk-2",
+     "The archive"
+    ],
+    [
+     "hk-3",
+     "Paintings that move"
+    ],
+    [
+     "hk-4",
+     "The frame"
+    ]
+   ],
+   "deco": [
+    "el-dragon.png d1",
+    "el-guanyin.png d2"
+   ]
+  },
+  {
+   "id": "the-print-gap",
+   "p": "pg",
+   "no": "02",
+   "x": 30,
+   "c": "#0B2540",
+   "t": "#F2EEE7",
+   "a": "#E0922F",
+   "scr": "#0B2540",
+   "title": "The Print Gap",
+   "kind": "Talkshow · edit & motion",
+   "ctx": "Media Production course · UEH",
+   "lede": "A talkshow about the gap between the design on your screen and the print that comes off the press.",
+   "txt": [
+    "A designer and a production operator sit down to find one shared language, because creativity only takes off when it can step into the real world.",
+    "My part was the edit and everything that moves, from the first frame of the intro to the closing title."
+   ],
+   "credits": [
+    [
+     "SCENE DESIGN",
+     "@bonny._.n @ccici_poo"
+    ],
+    [
+     "EDIT · MOTION DESIGN",
+     "@4pdx.brdn"
+    ],
+    [
+     "TEAM",
+     "Team Xuất Thần · Media Production course, UEH"
+    ]
+   ],
+   "fine": "",
+   "tags": [
+    "#talkshow",
+    "#videoediting",
+    "#motiondesign"
+   ],
+   "ig": "https://www.instagram.com/p/DfaWn2fk3W8/",
+   "clips": [
+    [
+     "pg-1",
+     "Intro"
+    ],
+    [
+     "pg-2",
+     "Title"
+    ],
+    [
+     "pg-3",
+     "Game 01"
+    ],
+    [
+     "pg-4",
+     "Closing title"
+    ]
+   ],
+   "deco": [
+    "tape.png tape1",
+    "tape.png tape2",
+    "burst.png burst",
+    "qmark.png q"
+   ]
+  },
+  {
+   "id": "luc-van-khai-xuan",
+   "p": "lv",
+   "no": "03",
+   "x": 60,
+   "c": "#DE298B",
+   "t": "#FFFFFF",
+   "a": "#ECDA73",
+   "scr": "#1F3067",
+   "title": "Lục Vận Khai Xuân",
+   "kind": "Event · motion, edit, filming",
+   "ctx": "Lunar New Year culture project · UEH",
+   "lede": "From the brush-stroke intro to the booth on the day.",
+   "txt": [
+    "Motion, edit and filming for our Lunar New Year culture project at UEH."
+   ],
+   "credits": [
+    [
+     "LOGO & KV",
+     "@bonny._.n @ccici_poo"
+    ],
+    [
+     "MOTION · EDIT · FILMING",
+     "@4pdx.brdn"
+    ]
+   ],
+   "fine": "",
+   "tags": [
+    "#eventrecap",
+    "#lunarnewyear",
+    "#tet"
+   ],
+   "ig": "https://www.instagram.com/p/DfX7seFk7nz/",
+   "clips": [
+    [
+     "lv-1",
+     "Brush-stroke intro"
+    ],
+    [
+     "lv-2",
+     "Key visual"
+    ],
+    [
+     "lv-3",
+     "LED loop"
+    ],
+    [
+     "lv-4",
+     "Booth, day 1"
+    ]
+   ]
+  },
+  {
+   "id": "arttech-k51",
+   "p": "k5",
+   "no": "04",
+   "x": 12,
+   "c": "#1283F8",
+   "t": "#FFFFFF",
+   "a": "#FFFFFF",
+   "scr": "#0b0b10",
+   "title": "Arttech K51",
+   "kind": "Recap film",
+   "ctx": "Digital Illustration × Visual LED Performance · SMD",
+   "lede": "Digital Illustration final projects, recapped.",
+   "txt": [
+    "A recap film for the K51 students’ final projects at SMD, School of Media Design. I made the motion: the opening type, the cube city outro, the card burst and the blue grid end title, built to carry every student’s piece without stealing the spotlight."
+   ],
+   "credits": [
+    [
+     "MOTION",
+     "@4pdx.brdn"
+    ],
+    [
+     "ARTWORKS",
+     "Arttech K51 students"
+    ]
+   ],
+   "fine": "",
+   "tags": [
+    "#recapvideo",
+    "#digitalillustration",
+    "#motiongraphics"
+   ],
+   "ig": "https://www.instagram.com/p/DfX2QRjk-JT/",
+   "clips": [
+    [
+     "k5-1",
+     "Opening type"
+    ],
+    [
+     "k5-2",
+     "Cube city"
+    ],
+    [
+     "k5-3",
+     "Card burst"
+    ],
+    [
+     "k5-4",
+     "Blue grid end title"
+    ]
+   ]
+  },
+  {
+   "id": "module-on-x",
+   "p": "xm",
+   "no": "05",
+   "x": 42,
+   "c": "#0B0C0F",
+   "t": "#F4F6F8",
+   "a": "#1D9BF0",
+   "scr": "#000000",
+   "title": "Module on X",
+   "kind": "Explainer trailer",
+   "ctx": "School safety program",
+   "lede": "Motion design for a school safety program: the trailer for its module on X.",
+   "txt": [
+    "Interfaces turning in 3D space, flat icons stamped on graph paper, and the app’s screens one after another, all on the grid from the opening title."
+   ],
+   "credits": [
+    [
+     "MOTION DESIGN",
+     "@4pdx.brdn"
+    ]
+   ],
+   "fine": "",
+   "tags": [
+    "#explainervideo",
+    "#uianimation",
+    "#elearning"
+   ],
+   "ig": "https://www.instagram.com/p/DfaYKOVE1e0/",
+   "clips": [
+    [
+     "xm-1",
+     "The title"
+    ],
+    [
+     "xm-2",
+     "The interfaces"
+    ],
+    [
+     "xm-3",
+     "The graph paper"
+    ],
+    [
+     "xm-4",
+     "The screens"
+    ]
+   ]
+  },
+  {
+   "id": "motion-shorts",
+   "p": "sh",
+   "no": "06",
+   "x": 68,
+   "c": "#1E8A2E",
+   "t": "#FFFFFF",
+   "a": "#1F5FD0",
+   "vertical": true,
+   "title": "Motion Shorts",
+   "kind": "Explainer shorts",
+   "ctx": "School safety program · vertical series",
+   "lede": "Talking heads up front, and the motion that carries the hard parts.",
+   "txt": [
+    "Type that lands word by word, numbers that grow, documents highlighted line by line."
+   ],
+   "credits": [
+    [
+     "MOTION DESIGN",
+     "@4pdx.brdn"
+    ]
+   ],
+   "fine": "",
+   "tags": [
+    "#kinetictypography",
+    "#explainervideo",
+    "#shortformvideo"
+   ],
+   "ig": "https://www.instagram.com/p/DfadnY9zpnK/",
+   "clips": [
+    [
+     "sh-2",
+     "The data"
+    ],
+    [
+     "sh-3",
+     "The documents"
+    ],
+    [
+     "sh-4",
+     "Words with weight"
+    ]
+   ]
+  },
+  {
+   "id": "about",
+   "p": "me",
+   "no": "—",
+   "x": 24,
+   "c": "#FF5A1F",
+   "t": "#15183A",
+   "a": "#15183A",
+   "about": true,
+   "title": "Brandon // Bao Dinh",
+   "kind": "About",
+   "ctx": "Ho Chi Minh City",
+   "lede": "I’m Brandon (Bao Dinh), a video editor and motion designer from Ho Chi Minh City.",
+   "txt": [
+    "Let me bring art into your project. DM me.",
+    "Student of Digital Communication and Multimedia Design at UEH."
+   ],
+   "credits": [
+    [
+     "PREMIERE PRO",
+     "6 years"
+    ],
+    [
+     "AFTER EFFECTS",
+     "3 years"
+    ],
+    [
+     "Email",
+     "dinhtthanhpao@gmail.com"
+    ],
+    [
+     "INSTAGRAM",
+     "@4pdx.brdn"
+    ]
+   ],
+   "fine": "",
+   "tags": [],
+   "ig": "https://www.instagram.com/4pdx.brdn/",
+   "clips": [
+    [
+     "me-1",
+     "The 4pdx.brdn intro reel"
+    ]
+   ]
+  }
+ ]
+}
